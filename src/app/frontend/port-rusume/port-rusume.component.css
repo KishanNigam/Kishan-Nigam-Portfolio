@@ -1,0 +1,90 @@
+.description-body {
+    margin: 10px 10px;
+    padding: 0px;
+}
+.about-body {
+    border-bottom: 1px solid #ccc9c9;
+    padding-bottom: 20px;
+}
+.about-body-heading {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.about-body div h5 {
+    margin-left: 8px;
+    text-transform: capitalize;
+}
+.about-description {
+    margin: 10px 0px 0px 0px ;
+
+}
+.about-context p {
+    font-weight: 400;
+}
+.about-details {
+    margin-left: -30px;
+}
+.about-details ul {
+    list-style: none;
+}
+.about-details ul li {
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.about-details ul li strong{
+    background-color: #78cc6d;
+    padding: 0px 10px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 400;
+}
+.resume-title {
+    border: 1px solid #78cc6d;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px 3px #ccc9c9;
+    background-color: #f4f4f4;
+    height: 100%;
+}
+.resume-subtitle {
+    display: flex;
+    margin: 10px 0px;
+    border-bottom: 1px solid #ccc9c9;
+}
+.icon {
+    color: #78cc6d;
+}
+.name {
+    margin-left: 20px;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.resume-item {
+    margin-top: 20px;
+}
+.date {
+    border: 1px solid #78cc6d;
+    display: inline;
+    padding: 1px 4px;
+    border-radius: 8px;
+    font-size: small;
+    color: #78cc6d; 
+}
+.profile-name {
+    font-size: small;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.company {
+    font-size: small;
+    text-transform: capitalize;
+}
+.resume-item p{
+    font-size: medium;
+    margin-top: 20px;
+}
